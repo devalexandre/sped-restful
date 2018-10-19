@@ -1,3 +1,0 @@
-# Sped-RestFul
-
-LOGS

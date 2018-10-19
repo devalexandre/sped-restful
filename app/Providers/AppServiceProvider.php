@@ -1,6 +1,6 @@
 <?php
 
-namespace SpedRest\Providers;
+namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
